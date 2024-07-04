@@ -1,4 +1,4 @@
-package com.whatsappstatussaver
+package com.statussaver
 
 import android.app.Application
 import com.facebook.react.PackageList
